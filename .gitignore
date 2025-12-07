@@ -1,0 +1,41 @@
+# Build artifacts
+*.o
+*.a
+*.so
+tictactoe
+a.out
+main
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Game runtime data
+game_stats.txt
+leaderboard.txt
+
+# Object and executable files
+*.out
+*.exe
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# CMake (if used)
+CMakeFiles/
+cmake_build_debug/
+
+# LaTeX generated files (from documentation)
+*.pdf
+*.aux
+*.log
+*.synctex.gz
+
+*.tex
+
