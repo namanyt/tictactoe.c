@@ -279,11 +279,7 @@ For more details, see:
 
 ## License
 
-MIT License - See LICENSE file for details
-
-## Author
-
-Created as a Programming in C course project at University of Petroleum and Energy Studies
+MIT License - See [LICENSE](LICENSE) file for details
 
 ## Credits
 
