@@ -9,7 +9,7 @@ The project is organized in a modular, object-oriented style (simulated in C usi
 ## File Organization
 
 ```
-tictactoe.2.c/
+tictactoe.c/
 ├── main.c          # Entry point, main menu, game flow control
 ├── game.c/h        # Core game logic and board management
 ├── ai.c/h          # AI opponent with multiple difficulty levels
@@ -324,7 +324,7 @@ Game and AI instances are managed by main.c as singletons for each game session
 - **Stack:** Board arrays, game states, local variables
 - **Heap:** Dynamically allocated strings for usernames, game logs
 - **File I/O:** Persistent data in text files (leaderboard.txt, game_stats.txt)
-
+ 
 All dynamic memory is freed before program exit or between game sessions to prevent leaks.
 
 ## Error Handling
