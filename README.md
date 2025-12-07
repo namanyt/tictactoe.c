@@ -78,7 +78,7 @@ The `docs/` directory contains comprehensive documentation:
 ## Project Structure
 
 ```
-tictactoe.2.c/
+tictactoe.c/
 ├── main.c              # Entry point, menu system, game orchestration
 ├── game.c/h            # Core game logic and board management
 ├── ai.c/h              # AI opponent (Easy/Medium/Hard)
@@ -149,9 +149,9 @@ View complete game history with:
 The board is displayed as:
 ```
     0 | 1 | 2
------------
+   -----------
     3 | 4 | 5
------------
+   -----------
     6 | 7 | 8
 ```
 
