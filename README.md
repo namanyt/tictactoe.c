@@ -280,9 +280,3 @@ For more details, see:
 ## License
 
 MIT License - See [LICENSE](LICENSE) file for details
-
-## Credits
-
-- Game implementation: Pure C, no external libraries
-- AI: Minimax algorithm with alpha-beta pruning
-- Statistics: File-based persistence (no database)
