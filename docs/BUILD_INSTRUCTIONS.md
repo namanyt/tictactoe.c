@@ -23,7 +23,7 @@ make --version
 ### Step 1: Navigate to Project Directory
 
 ```bash
-cd path/to/tictactoe.2.c
+cd path/to/tictactoe.c
 ```
 
 ### Step 2: Compile Using Make
